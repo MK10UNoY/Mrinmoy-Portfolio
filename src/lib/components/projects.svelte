@@ -23,7 +23,7 @@
 			<img
 				src={project.image}
 				alt="thumbnail"
-				class="h-60 w-full rounded-xl object-cover mb-4 shadow-sm ring-1 ring-neutral-400 dark:ring-neutral-400"
+				class="w-full aspect-square rounded-sm object-cover mb-4 shadow-sm ring-1 ring-neutral-400 dark:ring-neutral-400"
 				width="1000"
 				height="1000"
 			/>

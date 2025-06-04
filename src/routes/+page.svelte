@@ -8,6 +8,7 @@
 	import DockIcon from '$lib/DockIcon.svelte';
 	import Projects from '$lib/components/projects.svelte';
 	import Experiences from '$lib/components/customui/HoverCard.svelte';
+	import Coding from '$lib/components/coding.svelte';
 
 	let navs = {
 		navbar: [
@@ -40,6 +41,7 @@
 					<SectionCards />
 					<Experiences />
 					<Projects />
+					<Coding />
 				</div>
 			</div>
 		</div>

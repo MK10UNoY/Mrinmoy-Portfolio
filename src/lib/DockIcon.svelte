@@ -30,7 +30,7 @@
   );
 
   let width = useSpring(widthSync, {
-    mass: 0.1,
+    mass: 0.3,
     stiffness: 120,
     damping: 12,
   });

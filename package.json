@@ -86,6 +86,7 @@
 	"dependencies": {
 		"@tailwindcss/vite": "^4.1.8",
 		"@threlte/core": "^8.0.4",
+		"@threlte/extras": "^9.2.1",
 		"class-variance-authority": "^0.7.1",
 		"clsx": "^2.1.1",
 		"mode-watcher": "0.5.1",
